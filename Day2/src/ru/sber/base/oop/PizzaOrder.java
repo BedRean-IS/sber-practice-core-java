@@ -1,6 +1,6 @@
 package ru.sber.base.oop;
 
-public class PizzaOrder {
+class PizzaOrder {
     enum Size{
         SMALL,
         MEDIUM,
